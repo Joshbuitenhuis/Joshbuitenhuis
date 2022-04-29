@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Joshbuitenhuis
+- 👋 Hi, I’m @TimePancake555
 - 👀 I’m interested in ... Python, Java, and HTML/bootstrap/JS/CSS
 - 🌱 I’m currently learning ... Python
 - 💞️ I’m looking to collaborate on ... nothing
